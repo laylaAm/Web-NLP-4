@@ -28,7 +28,8 @@ sql
 
 ```
 
-![web4-2](https://github.com/laylaAm/web_NLP-4/assets/139586277/5860b133-40c5-493c-b23a-999ece9c72e0)
+![web4-2](https://github.com/laylaAm/Web-NLP-4/assets/139586277/0ab0f091-8586-46d0-beb3-386965c69c64)
+
 
 # Make a PHP page to display the stored value:
 
@@ -36,4 +37,4 @@ sql
 store_value1.php
 ```
 
-![web4-3](https://github.com/laylaAm/web_NLP-4/assets/139586277/199f8d09-083b-4057-a3aa-200de9305380)
+![web4-3](https://github.com/laylaAm/Web-NLP-4/assets/139586277/11aa902c-bcc4-4f5b-9a9b-411c2277c9bf)
