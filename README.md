@@ -1,4 +1,4 @@
-# GET
+# Steps:
 # 1. HTML Code (get_value.html):
 This code creates a basic HTML form where the user can enter a value. The form has an input field named "value" and a submit button. When the user submits the form, it sends a GET request to the "store_value.php" file.
 
